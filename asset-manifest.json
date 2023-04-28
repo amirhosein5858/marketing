@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/marketing/static/css/main.073c9b0a.css",
+    "main.js": "/marketing/static/js/main.406edcc9.js",
+    "static/js/787.f0714d55.chunk.js": "/marketing/static/js/787.f0714d55.chunk.js",
+    "static/media/pic1.jpg": "/marketing/static/media/pic1.514c9c9769a828cfc3df.jpg",
+    "static/media/BAR1.jpg": "/marketing/static/media/BAR1.ee1808c65140dc5c8bfc.jpg",
+    "static/media/pic3.jpg": "/marketing/static/media/pic3.9d8bccef73ca056196fe.jpg",
+    "static/media/TOUR1.jpg": "/marketing/static/media/TOUR1.470a0afaff87de30611e.jpg",
+    "static/media/k2.jpg": "/marketing/static/media/k2.0d41a9be6a2d98f31f0e.jpg",
+    "static/media/pic5.jpg": "/marketing/static/media/pic5.9fba7db5d9d9f39d5aea.jpg",
+    "static/media/ROOMS1.jpg": "/marketing/static/media/ROOMS1.bb0f9b9d9e04d9964ce0.jpg",
+    "static/media/kingroom.jpg": "/marketing/static/media/kingroom.8843229ee1050bfd87c0.jpg",
+    "static/media/24h.jpg": "/marketing/static/media/24h.3a9fba0e11b8721b2dd1.jpg",
+    "static/media/logoH.png": "/marketing/static/media/logoH.28d40b6621b85dcd0136.png",
+    "static/media/k3.jpg": "/marketing/static/media/k3.ce94f5f0b92888c5dc48.jpg",
+    "static/media/pic4.jpg": "/marketing/static/media/pic4.1d47978f72a7ea9e7d51.jpg",
+    "static/media/GYM 1.jpg": "/marketing/static/media/GYM 1.4f448c6413f67c51eea1.jpg",
+    "static/media/SPA1.jpg": "/marketing/static/media/SPA1.94fbb9b384337266bf56.jpg",
+    "static/media/INST.jpg": "/marketing/static/media/INST.f872165824dc35f5f843.jpg",
+    "static/media/F.png": "/marketing/static/media/F.7365f255f788dcc0d224.png",
+    "index.html": "/marketing/index.html",
+    "main.073c9b0a.css.map": "/marketing/static/css/main.073c9b0a.css.map",
+    "main.406edcc9.js.map": "/marketing/static/js/main.406edcc9.js.map",
+    "787.f0714d55.chunk.js.map": "/marketing/static/js/787.f0714d55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.406edcc9.js"
+  ]
+}
